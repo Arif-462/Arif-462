@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ariful10462@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **Funny **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
