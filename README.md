@@ -6,13 +6,13 @@
 
 Experienced Django developer passionate about creating efficient and scalable web applications. Proficient in Django framework, adept at full-stack development, and dedicated to producing clean, maintainable code. Actively contributing to open-source projects and committed to continuous learning within the Django ecosystem.
 
-Key Skills:
+<strong>Key Skills:</strong>
 Django Framework
 Full-Stack Development
 Clean & Maintainable Code
 Open-Source Contributions
 
-Goals:
+<strong>Goals:</strong>
 Continuously honing Django skills, exploring new technologies, and fostering a collaborative developer community.
 
 
