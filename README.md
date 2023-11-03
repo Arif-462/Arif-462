@@ -1,4 +1,4 @@
-![A passionate Django Developer]([https://i.postimg.cc/021j0qDw/Software-Developer.png](https://i.postimg.cc/CLnnqPV6/Software-Developer.png))
+[![Software-Developer.png](https://i.postimg.cc/CLnnqPV6/Software-Developer.png)](https://postimg.cc/tYyg0zJh)
 <h1 align="center">Hi 👋, I'm Md Ariful Islam</h1>
 <h3 align="center">A passionate Django Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=newcoderhut&label=Profile%20views&color=0e75b6&style=flat" alt="newcoderhut" /> </p>
