@@ -21,7 +21,7 @@ Continuously honing Django skills, exploring new technologies, and fostering a c
 
 
 
-  🌱 I’m currently learning Python And Java Scripts 
+  <p>🌱 I’m currently learning Python And Java Scripts </p>
   💬 Ask me about Software Development  
   📫 How to reach me: ariful10462@gmail.com 
   ⚡ Fun fact: I am Funny
