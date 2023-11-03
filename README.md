@@ -23,7 +23,7 @@ Continuously honing Django skills, exploring new technologies, and fostering a c
 
   <p>🌱 I’m currently learning Python And Java Scripts </p>
   <p>💬 Ask me about Software Development</p>
-  <p> 📫 How to reach me: ariful10462@gmail.com </p>
+  <p>📫 How to reach me: <a href="mailto:ariful10462@gmail.com">ariful10462@gmail.com</a></p>
   <p>⚡ Fun fact: I am Funny </p>
     
  
